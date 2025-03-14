@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Generative AI<br>👯 I’m looking to collaborate on Artificial Intelligence<br>🤝 I’m looking for help with Front End Development<br>🌱 I’m currently learning Transformer Architecture<br>💬 Ask me about Artificial Intelligence<br>⚡ Fun fact I'm a Poet
+🔭 I’m currently working on Generative AI<br>👯 I’m looking to collaborate on Artificial Intelligence<br>🤝 I’m looking for help with Front End Development<br>🌱 I’m currently working with Transformer Architecture<br>💬 Ask me about Generative AI<br>⚡ Fun fact I'm a Poet
 
 
 ## 🌐 Socials:
