@@ -1,4 +1,4 @@
-# Hey, I'm Shreekant 👋🧠
+# Hey, I'm Shree 👋🧠
 
 I build AI systems — the kind that actually ship, not just demo.
 
